@@ -12,4 +12,4 @@
 
 [Práctica 4](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/Practica4Evely.ipynb)
 
-[Practica 5](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica5Evely.ipynb)
+[Practica 5](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/Practica5Evely.ipynb)
