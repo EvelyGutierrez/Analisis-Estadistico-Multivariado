@@ -15,3 +15,5 @@
 [Práctica 5](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/Practica_5_Evely.ipynb)
 
 [Práctica 6](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica6_Evely.ipynb)
+
+[Práctica 7](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica7_Evely.ipynb)
