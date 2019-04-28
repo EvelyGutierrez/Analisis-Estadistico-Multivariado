@@ -21,3 +21,5 @@
 [Práctica 8](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica8_Evely.ipynb)
 
 [Práctica 9](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica9_Evely.ipynb)
+
+[Práctica 10](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica10_Evely.ipynb)
