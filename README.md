@@ -31,3 +31,5 @@
 [Práctica 13](https://nbviewer.jupyter.org/github/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/ReportePractica13_Evely.ipynb)
 
 [Portafolio](https://github.com/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/PortafolioEvidenciaEvely.pdf)
+
+[Artículo](https://github.com/EvelyGutierrez/Analisis-Estadistico-Multivariado/blob/master/Articulo.pdf)
